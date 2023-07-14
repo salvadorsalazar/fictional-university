@@ -1,1 +1,1 @@
-s is our amaixn cusote theme
+<h1>THIS IS OUR CUSTOM THEME</h1>
