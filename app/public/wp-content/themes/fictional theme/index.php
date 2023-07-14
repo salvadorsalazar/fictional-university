@@ -1,11 +1,21 @@
 <h1>THIS IS OUR CUSTOM THEME</h1>
 
 <?php
-function myFrirst() {
+// function myFrirst() {
 
-    echo 2+2;
+//     echo "<p>first function </p>";
+// }
+
+
+function greet($name,$color){
+    echo "<p> Hello my name is $name and my favorite color is $color</p>";
+
 }
-
-myFrirst();
+// myFrirst();
+greet('john','blue');
+greet('jane','green');
 
 ?>
+<!-- 
+<p>Hello my name is sal and my favorite color is blue</p>
+<p>Hello my name is sal and my favorite color is blue</p> -->
