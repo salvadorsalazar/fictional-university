@@ -19,3 +19,5 @@ greet('jane','green');
 <!-- 
 <p>Hello my name is sal and my favorite color is blue</p>
 <p>Hello my name is sal and my favorite color is blue</p> -->
+
+<h1><?php bloginfo('name'); ?></h1>
